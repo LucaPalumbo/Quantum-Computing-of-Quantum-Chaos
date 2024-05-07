@@ -1,1 +1,0 @@
-![alt text](kicked_rotator.png)
